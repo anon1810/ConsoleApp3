@@ -16,6 +16,8 @@ namespace ConsoleApp3
 
             var result = x + y;
             string xx = "";
+
+            string test = "";
         }
     }
 }
