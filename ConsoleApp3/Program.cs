@@ -18,6 +18,8 @@ namespace ConsoleApp3
             string xx = "";
 
             string test = "";
+            string test2 = "";
+
         }
     }
 }
